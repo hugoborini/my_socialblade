@@ -1,3 +1,3 @@
-# python-scraping
+# my social blade
 
-my first scraping project in python
+a sociale blade like for insta youtube
